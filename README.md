@@ -36,7 +36,7 @@ page title and view from the path.
 ## Hosting
 
 Production uses static files on nginx with HTTPS. The quiz demo and public
-DiskMonitor ZIP are separate hosted artifacts, not bundled into this repository.
+DiskMonitor EXE are separate hosted artifacts, not bundled into this repository.
 Keep private project sources and service credentials out of the web root.
 
 ## Checks
